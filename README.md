@@ -8,7 +8,7 @@
 ## 👾 Projeto 
 Este projeto foi desenvolvido com base no curso [Ruby II: Continuando seus primeiros passos na programação](https://cursos.alura.com.br/course/introducao-a-programacao-com-ruby-e-jogos-2, "Link do curso").
 
-## 📖 Objetivos do curso
+## 📖 Aprendizados
 Através das aulas, o professor vai desenvolvendo um jogo com o aluno e abordando conceitos práticos e e de boas práticas da linguagem Ruby. Este, é o segundo de uma série de cursos que compõe a formação de Ruby on Rails.
 Alguns conceitos abordados:
 * Interface com o usúario e lógica de négocios (no caso, jogo)
